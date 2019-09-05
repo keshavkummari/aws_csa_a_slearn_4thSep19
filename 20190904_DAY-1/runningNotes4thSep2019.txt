@@ -1,0 +1,157 @@
+
+
+#------------------------------------------------------------------------------#
+Prerequisites :
+
+Prerequisites : Cloud Engineer : CSA, SYSOpS, Dev, DevOps, etc...
+
+1. System & Networking Administration : Windows|Unix|Linux
+
+    1. GUI : A file or A Folder or A Configuration or A Server Start etc...
+    2. CUI : A file or A Folder or A Configuration or A Server Start etc...
+    3. SCRIPTS : Windows(Power Shell) , Linux/Unix(Bash Shell Script) , Python
+
+Download, Install, Configure and Monitor, if there are any issues, Troubleshooting
+
+
+2. Cloud i.e. AWS or Azure or GCP :
+
+AWS : Training and Certifications :
+
+    1. GUI : A file or A Folder or A Configuration or A Server Start etc...
+    2. CUI : A file or A Folder or A Configuration or A Server Start etc...
+    3. SCRIPTS : Windows(Power Shell) , Linux/Unix(Bash Shell Script) , Python
+
+Download, Install, Configure and Monitor, if there are any issues, Troubleshooting
+
+3. Programming : Python
+
+4. DevOps CI/CD Pipelines
+
+Cloud, DevOps & Programming : Full Stack Engineer
+#------------------------------------------------------------------------------#
+Types of Users :
+
+LMS :
+
+Lab : keshavkummari AWS Lab :
+
+    2 Types of Users :
+
+        1. Root User :
+            URL : https://aws.amazon.com
+        UserName: firstname.lastname@gmail.com
+        PassWord: ********
+
+        2. IAM User :
+            URL : https://keshavkummari.aws.amazon.com
+
+        Account ID/Name : keshavkummari or 10202383837
+        UserName        : UserName
+        PassWord        : ********
+
+https://azure.microsoft.com/en-in/overview/what-are-private-public-hybrid-clouds/
+
+https://azure.microsoft.com/en-in/overview/what-are-private-public-hybrid-clouds/
+
+https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/
+
+https://azure.microsoft.com/en-in/overview/examples-of-cloud-computing/
+
+https://azure.microsoft.com/en-in/overview/what-is-iaas/
+
+https://azure.microsoft.com/en-in/overview/what-is-saas/
+
+https://azure.microsoft.com/en-in/overview/what-is-paas/
+
+
+#------------------------------------------------------------------------------#
+
+1. What is Cloud Computing?
+
+Simply put, cloud computing is the delivery of computing services—including
+servers,
+storage,
+databases,
+networking,
+software,
+analytics, and
+intelligence—over the Internet.
+
+The cloud offers faster innovation, flexible resources, and economies of scale.
+You typically pay only for cloud services you use,
+helping lower your operating costs,
+run your infrastructure more efficiently and scale as your business needs change.
+#------------------------------------------------------------------------------#
+
+#------------------------------------------------------------------------------#
+2. Types of Cloud Computing
+
+Cloud computing is providing developers and IT departments with the ability to
+focus on what matters most and avoid undifferentiated work like
+procurement,
+maintenance, and
+capacity planning.
+
+As cloud computing has grown in popularity, several different models and
+deployment strategies have emerged to help meet specific needs of different users.
+
+Each type of cloud service, and deployment method, provides you with different
+levels of control, flexibility, and management.
+
+Understanding the differences between
+1. Infrastructure as a Service,
+2. Platform as a Service, and
+3. Software as a Service,
+
+as well as what deployment strategies you can use, can help you
+decide what set of services is right for your needs.
+#------------------------------------------------------------------------------#
+3. Cloud Computing Models
+
+There are three main models for cloud computing.
+
+Each model represents a different part of the cloud computing stack.
+
+1. Infrastructure as a Service (IaaS) :
+
+Infrastructure as a Service, sometimes abbreviated as IaaS,
+contains the basic building blocks for cloud IT and typically provide access to
+networking features, computers (virtual or on dedicated hardware), and
+data storage space.
+Infrastructure as a Service provides you with the highest level of flexibility
+and management control over your IT resources and is most similar to existing IT
+resources that many IT departments and developers are familiar with today.
+
+2. Platform as a Service (PaaS) :
+
+Platforms as a service remove the need for organizations to manage the underlying
+infrastructure (usually hardware and operating systems) and allow you to focus
+on the deployment and management of your applications.
+
+This helps you be more efficient as you don’t need to worry about resource
+procurement, capacity planning, software maintenance, patching, or any of the
+other undifferentiated heavy lifting involved in running your application.
+
+
+3. Software as a Service (SaaS) :
+
+Software as a Service provides you with a completed product that is run and
+managed by the service provider.
+
+In most cases, people referring to Software as a Service are referring to
+end-user applications. With a SaaS offering you do not have to think about how
+the service is maintained or how the underlying infrastructure is managed;
+you only need to think about how you will use that particular piece software.
+A common example of a SaaS application is web-based email where you can send
+and receive email without having to manage feature additions to the email
+product or maintaining the servers and operating systems that the email program is running on.
+
+
+#------------------------------------------------------------------------------#
+4. Cloud Computing Deployment Models
+
+
+#------------------------------------------------------------------------------#
+
+#------------------------------------------------------------------------------#

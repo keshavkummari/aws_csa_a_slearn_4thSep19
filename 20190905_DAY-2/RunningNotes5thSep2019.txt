@@ -1,0 +1,66 @@
+
+
+Agenda :
+
+1. AWS Certification Details & AWS Global Infrastructure 
+
+2. Download, Install and Configure Required tools for AWS Training 
+
+3. Walk Through AWS Mgmt Console & Launch a Linux OS & Windows 
+
+4. Connect LInux and Windows machine from local machine 
+
+5. Setting a AWS CLI User and Executing commands 
+
+6. VPC 
+
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate-Exam_Guide_EN_1.8.pdf
+
+https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf
+
+
+#------------------------------------------------------------------------------#
+Required Softwares :
+
+My System :
+
+MacOS :
+
+1. Text Editors : ATOM (https://atom.io/)
+
+2. IDE Tools    : Visual Studio Code (https://code.visualstudio.com/download)
+
+3. MacOS|Windows|Linux : gitbash (https://git-scm.com/)
+
+4. aws cli : https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html
+
+5. aws personal account : https://aws.amazon.com
+
+6. For Architectures : https://cloudcraft.co/app
+
+7. VCS/SCM  : https://github.com
+
+#------------------------------------------------------------------------------#
+
+    3  aws --version
+    4  git clone https://github.com/keshavkummari/test01.git
+    5  ls -ld test01
+    6  ls -lrta test01/
+    7  cd test01/
+    8  ls -lrta
+    9  touch a.txt
+   10  ls -lrta
+   11  cat a.txt
+   12  git config --global user.name "keshavkummari"
+   13  git config --global user.email "keshav.kummari@gmail.com"
+   14  git status
+   15  pwd
+   16  pwd
+   17  git add .
+   18  git status
+   19  git commit -m "MyFirstCommit"
+   20  git status
+   21  git push -u origin master
+
