@@ -64,3 +64,40 @@ MacOS :
    20  git status
    21  git push -u origin master
 
+
+
+
+AWS Global Infrastructure :
+
+1. Regions :
+    1. AZ's (Data Centers ) 22 Regions and 69 Az's 
+
+2. Edge Locations : 
+
+    1. DNS(Route53)
+    2. CloudFront
+    3. Shield
+    4. WebApplication Firewall 
+
+3. AWS Services : 
+
+Types of AWS Services :
+
+    1. Global Services      : IAM, Route53, S3 Service Global 
+    2. Region Wise Services : EC2, S3 Buckets in Regions, RDS, VPC 
+
+
+1. Compute :
+    1. EC2 : Elastic Compute Cloud 
+
+    AMI : Ubuntu (ubuntu)
+
+    ssh username@20.1.10.20 
+
+    # chmod 400 privatekey.pem 
+    
+    # ls -lrt privatekey.pem 
+
+    ssh -i "privatekey.pem" ubuntu@54.165.114.63 
+
+
