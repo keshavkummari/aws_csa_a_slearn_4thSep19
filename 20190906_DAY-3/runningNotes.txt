@@ -1,0 +1,37 @@
+
+Agenda :
+
+1. Launch a Windows OS on AWS Cloud and Connect from Local Machine(Windows/MacOS/Linux)
+
+2. IAM - User, Group and Policies 
+
+3. VPC & It's components 
+
+Public DNS : ec2-54-236-148-211.compute-1.amazonaws.com / ipaddress 
+User name  : Administrator
+Password   : oJOdMWtpn-r*d=uEsez6)4u.w?y2P.rD
+
+
+Keshavs-MacBook-Pro:~ keshavkummari$ aws ec2 run-instances --image-id "ami-07d0cf3af28718ef8" --count 1 --instance-type t2.micro --key-name amazonKeys --security-group-ids "sg-06a75815d77b191b9" --subnet-id "subnet-8387f9c9" --tag-specifications 'ResourceType=instance,Tags=[{Key=Name,Value=LinuxServer}]'
+
+
+Client : BMW 
+
+3 Tier Application - WebServers, Application Servers and Database Servers 
+
+Key Pillars :
+
+1. Security
+2. Reliability 
+3. Performance Efficiency 
+4. Operational Excellence
+5. Cost Optimization
+
+1. High Availability
+2. Fault Tolerance 
+3. Recovery Point Objective(RPO) 
+4. Recovery Time Objective(RTO)
+
+Default VPC :
+
+Custom VPC : 
