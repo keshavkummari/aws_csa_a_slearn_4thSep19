@@ -13,6 +13,7 @@ Class-A 10.0.0.0 | Class-B 172.16.0.0 to 172.31.0.0  | Class-C 192.168.0.0
     1.5 Network ACL
     1.6 Security Groups 
     1.7 Bastion Server - Public Subnets
+
     1.8 Elastic Load Balancer
     1.9 Launch Configuration 
     1.10 AutoScaling
@@ -29,3 +30,21 @@ No of instances in a Custom VPC : 65,536
 AZ1a  = AZ1b
 
 Subnet : 10.0.1.0/24 = 256-5 : 251 
+
+
+
+ELB ------|
+
+Increasing :
+
+if average_cpu utilization of 2 servers >= 80% then do wait for 1 to 5 minutes and then launch a EC2 instance 
+
+where AZ-1a & AZ-1b 
+
+Descreasing : 
+
+if average_cpu utilization of 2 servers <=40% for 1 to 5 minutes, then delete ec2 instance 
+
+
+
+
