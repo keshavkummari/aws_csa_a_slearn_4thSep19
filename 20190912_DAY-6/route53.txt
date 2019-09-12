@@ -1,0 +1,41 @@
+
+Client Name : CKK.CLOUD (DevOps As A Service)
+
+Host A WebSite on AWS 
+
+Domain Name : 
+
+http://www.ckk.cloud @ godaddy.com 
+
+
+User ---> http://www.ckk.cloud ----> 
+godaddy.com(ckk.cloud  - DNS - NS - ns45.domaincontrol.com & ns46.domaincontrol.com )
+
+AWS --> Route53 ---> Hosted Zones(ckk.cloud) ---> 1. SOA & 2. NS(4) 
+
+ckk.cloud (Production)
+acc.ckk.cloud : DevOps/Business/StackHolders 
+tst.ckk.cloud : Testers / QA 
+dev.ckk.cloud : Developers 
+
+Naked Domain : ckk.cloud 
+
+ns-1607.awsdns-08.co.uk
+ns-103.awsdns-12.com
+ns-1428.awsdns-50.org
+ns-631.awsdns-14.net
+
+https://aws.amazon.com/about-aws/global-infrastructure/
+
+https://aws.amazon.com/route53/
+
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html
+
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-failover
+
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-health-checks.html
+
+https://geopeeker.com/fetch/?url=http%3A%2F%2Fckk.cloud%2F&csrf_token=ouxQY6QfBEQd8T%2BEl36KQkJ3S9G%2FAHKpRs5NUpCrQn0%3D
+
+https://aws.amazon.com/cloudfront/features/
+

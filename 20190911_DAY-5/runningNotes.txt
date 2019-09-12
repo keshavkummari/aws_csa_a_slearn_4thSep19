@@ -1,0 +1,4 @@
+    1.8 Elastic Load Balancer
+    1.9 Launch Configuration 
+    1.10 AutoScaling
+    1.11 Launch / Spin WebServers - Private Subnets

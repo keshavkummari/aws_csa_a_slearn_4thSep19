@@ -1,0 +1,13 @@
+
+Assignments :
+    1. 
+    2. 
+    3. 
+
+1. Route 53 
+2. CloudFront
+3. ACM
+4. S3 
+
+
+Domain Name : 
